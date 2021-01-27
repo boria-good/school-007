@@ -1,0 +1,8 @@
+app_identifier("borisgood.school-007") # The bundle identifier of your app
+apple_id("borys.good@icloud.com") # Your Apple email address
+
+itc_team_id("119547365") # App Store Connect Team ID
+team_id("M46Q8G588Z") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
